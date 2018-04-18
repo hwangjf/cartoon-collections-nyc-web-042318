@@ -1,3 +1,3 @@
 def function(array)
-  array.
+  array 
 end
