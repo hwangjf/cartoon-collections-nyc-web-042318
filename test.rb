@@ -1,9 +1,9 @@
 def even_odd(array)
   for i in array
     if i.even?
-      puts even
+      puts "even"
     else i.odd?
-      puts odd
+      puts "odd"
     end
   end
 end
