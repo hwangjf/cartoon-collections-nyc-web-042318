@@ -1,3 +1,6 @@
 def function(array)
-  array 
+  for i in array
+   puts "Value of local variable is #{i}"
+end
+
 end
