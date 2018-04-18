@@ -4,3 +4,5 @@ def even_odd(array)
 end
 
 end
+
+even_odd([1, 2, 3])
